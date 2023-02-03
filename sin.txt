@@ -1,0 +1,40 @@
+environmental variable which is set when you login, usage of having PATH 
+    
+    when you give the external commands like cat, tr, find, grep, cut commands 
+    pwd
+    ls 
+    man 
+    cat 
+    find 
+    --help
+    cat 
+    vi --> visual editor 
+    cd / --> change the working directory to root directory 
+    cd --> will place you in the home directory 
+    root -> represent
+
+ 
+
+    /bin --> all the linux commands are stored in /bin /sbin directory
+    /etc --> configuration 
+    
+    > overwrites the existing file --> if the file is there, its existing contents are lost
+    
+    
+    wild card characters 
+    path
+    environmental variables
+    PATH, HOME, PS1, PWD 
+    
+    mkdir command 
+
+
+to creat home directory
+cd
+mkdir learning
+mkdir ${home}
+
+
+cd/mnt/e
+
+mnt belongs to another operating system
